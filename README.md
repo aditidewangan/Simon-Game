@@ -25,4 +25,4 @@ To generate your own README, first run `npm install` in order to install the fol
   * [`inquirer`](https://www.npmjs.com/package/inquirer) that will prompt you for your inputs from the command line 
   * [`axios`](https://www.npmjs.com/package/axios) to fetch your info from the GitHub API
 
-The application itself can be invoked with `node index.js`.
+The application itself can be invoked with `node game.js`.
